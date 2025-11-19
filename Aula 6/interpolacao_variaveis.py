@@ -18,17 +18,17 @@
 
 # print("Olá, me chamo {nome}. Eu tenho {idade} anos, trabalho como {profissao} de {idioma} para português.".format(idioma=idioma, profissao=profissao, idade=idade, nome=nome))
 
-pessoa = {
-  "nome": "Lizandra",
-  "idade": 44,
-  "profissao": "tradutora",
-  "idioma": "inglês"
-}
+# pessoa = {
+#   "nome": "Lizandra",
+#   "idade": 44,
+#   "profissao": "tradutora",
+#   "idioma": "inglês"
+# }
 
-print("Olá, me chamo {nome}. Eu tenho {idade} anos, trabalho como {profissao} de {idioma} para português.".format(**pessoa))
+# print("Olá, me chamo {nome}. Eu tenho {idade} anos, trabalho como {profissao} de {idioma} para português.".format(**pessoa))
 
-# PI = 3.14159
+PI = 3.14159
 
-# print(f"Valor de pi: {PI:.2f}")
+print(f"Valor de pi: {PI:.2f}")
 
-# print(f"Valor de pi: {PI:10.2f}")
+print(f"Valor de pi: {PI:0>10.2f}")
