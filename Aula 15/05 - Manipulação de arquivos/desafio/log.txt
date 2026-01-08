@@ -1,0 +1,53 @@
+[2025-11-23 08:04:58] CRIAR_CLIENTEargs=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None[2025-11-23 08:05:05] CRIAR_CONTAargs=(1, [<PessoaFisica: ('123456')>], [<ContaCorrente: ('0001', '1', 'Lizandra')>]) | kwargs={} | retorno=None[2025-11-23 08:05:48] CRIAR_CLIENTEargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>],) | kwargs={} | retorno=None[2025-11-23 08:05:54] CRIAR_CONTAargs=(2, [<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>], [<ContaCorrente: ('0001', '1', 'Lizandra')>, <ContaCorrente: ('0001', '2', 'Mia')>]) | kwargs={} | retorno=None[2025-11-23 08:06:19] CRIAR_CLIENTEargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:06:25] CRIAR_CONTAargs=(3, [<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>], [<ContaCorrente: ('0001', '1', 'Lizandra')>, <ContaCorrente: ('0001', '2', 'Mia')>, <ContaCorrente: ('0001', '3', 'Solanger')>]) | kwargs={} | retorno=None[2025-11-23 08:06:41] DEPOSITARargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:07:49] DEPOSITARargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:01] DEPOSITARargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:13] SACARargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:26] SACARargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:33] SACARargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:40] EXIBIR_EXTRATOargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:50] EXIBIR_EXTRATOargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:08:59] EXIBIR_EXTRATOargs=([<PessoaFisica: ('123456')>, <PessoaFisica: ('456789')>, <PessoaFisica: ('789012')>],) | kwargs={} | retorno=None[2025-11-23 08:11:39]	CRIAR_CLIENTE
+args=([<PessoaFisica: ('345678')>],) | kwargs={} | retorno=None[2025-11-23 08:11:45]	CRIAR_CONTA
+args=(1, [<PessoaFisica: ('345678')>], [<ContaCorrente: ('0001', '1', 'Milena')>]) | kwargs={} | retorno=None[2025-11-23 08:11:59]	DEPOSITAR
+args=([<PessoaFisica: ('345678')>],) | kwargs={} | retorno=None[2025-11-23 08:12:07]	SACAR
+args=([<PessoaFisica: ('345678')>],) | kwargs={} | retorno=None[2025-11-23 08:12:13]	EXIBIR_EXTRATO
+args=([<PessoaFisica: ('345678')>],) | kwargs={} | retorno=None[2025-11-23 08:12:29]	SACAR
+args=([<PessoaFisica: ('345678')>],) | kwargs={} | retorno=None[2025-11-23 08:12:34]	EXIBIR_EXTRATO
+args=([<PessoaFisica: ('345678')>],) | kwargs={} | retorno=None[2025-11-23 08:13:33]	CRIAR_CLIENTE
+args=([<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>],) | kwargs={} | retorno=None[2025-11-23 08:13:51]	CRIAR_CONTA
+args=(2, [<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>], [<ContaCorrente: ('0001', '1', 'Milena')>, <ContaCorrente: ('0001', '2', 'Thais')>]) | kwargs={} | retorno=None[2025-11-23 08:13:58]	DEPOSITAR
+args=([<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>],) | kwargs={} | retorno=None[2025-11-23 08:14:07]	DEPOSITAR
+args=([<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>],) | kwargs={} | retorno=None[2025-11-23 08:14:14]	SACAR
+args=([<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>],) | kwargs={} | retorno=None[2025-11-23 08:14:31]	SACAR
+args=([<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>],) | kwargs={} | retorno=None[2025-11-23 08:14:40]	EXIBIR_EXTRATO
+args=([<PessoaFisica: ('345678')>, <PessoaFisica: ('901234')>],) | kwargs={} | retorno=None
+[2025-11-23 08:16:35]	SACAR
+
+args=([],) | kwargs={} | retorno=None
+
+[2025-11-23 08:17:13]	CRIAR_CLIENTE
+
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:17:21]	CRIAR_CONTA
+
+args=(1, [<PessoaFisica: ('123456')>], [<ContaCorrente: ('0001', '1', 'L')>]) | kwargs={} | retorno=None
+
+[2025-11-23 08:17:29]	DEPOSITAR
+
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:17:36]	SACAR
+
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:17:40]	EXIBIR_EXTRATO
+
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:18:45]	CRIAR_CLIENTE
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:18:51]	CRIAR_CONTA
+args=(1, [<PessoaFisica: ('123456')>], [<ContaCorrente: ('0001', '1', 'l')>]) | kwargs={} | retorno=None
+
+[2025-11-23 08:18:58]	DEPOSITAR
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:19:04]	SACAR
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
+
+[2025-11-23 08:19:08]	EXIBIR_EXTRATO
+args=([<PessoaFisica: ('123456')>],) | kwargs={} | retorno=None
