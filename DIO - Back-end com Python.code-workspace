@@ -8,5 +8,7 @@
 			"path": "DIO_Python-Back-end"
 		}
 	],
-  "settings": {}
+  "settings": {
+    "python.languageServer": "None"
+  }
 }
